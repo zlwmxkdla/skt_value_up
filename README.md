@@ -1,5 +1,5 @@
 # skt_value_up
 
-실행방법: `python app.py`
+[실행방법: `python app.py`
 
-hi
+hi](https://github.com/Prize-Three)
