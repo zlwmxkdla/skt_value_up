@@ -1,5 +1,3 @@
 # skt_value_up
 
-[실행방법: `python app.py`
-
-hi](https://github.com/Prize-Three)
+AI를 활용한 역할놀이 서비스(https://github.com/Prize-Three)
